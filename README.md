@@ -25,15 +25,10 @@ CTEs, Window Functions, Exploratory Data Analysis (EDA), Data Cleaning, Data Val
 | Project | Tools | Description |
 |---|---|---|
 | [Hospital Readmission Risk Analysis](https://github.com/RUSHI-PATEL-03/hospital_readmission_sql) | PostgreSQL | SQL analysis of 25,000+ patient records to identify readmission drivers |
-| Global Unicorn Startups Analysis | PostgreSQL | Funding patterns, investor influence, and ecosystem comparisons |
-| Retail Sales Analysis | PostgreSQL | End-to-end EDA and business querying on retail dataset |
-| Power BI Sales Dashboard | Power BI | Interactive KPI dashboard with drill-down filters |
+| [Global Unicorn Startups Analysis](https://github.com/RUSHI-PATEL-03/Global-Unicorn-Startups-SQL-Data-Analysis-Project) | PostgreSQL | Funding patterns, investor influence, and ecosystem comparisons |
+| [Retail Sales Analysis](https://github.com/RUSHI-PATEL-03/SQL_Retail_Sales) | PostgreSQL | End-to-end EDA and business querying on retail dataset |
+| [Interactive-Bike-Sales-Analysis-Dashboard-Excel](https://github.com/RUSHI-PATEL-03/Interactive-Bike-Sales-Analysis-Dashboard-Excel-) | Ms Excel | Data Cleaning | Pivot Table| Visualization Building | Interactive Dashboard Design | 
 
----
-
-### 📈 Currently Working On
-- Python-based EDA project (Pandas, Matplotlib)
-- Expanding SQL portfolio with finance domain datasets
 
 ---
 
