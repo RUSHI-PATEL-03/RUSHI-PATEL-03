@@ -1,6 +1,5 @@
 # Hi, I'm Rushi Patel 👋
-Data Analyst | Business Intelligence Enthusiast | SQL • Power BI • PostgreSQL
-
+**Data Analyst | SQL • Power BI • PostgreSQL • Python | Mumbai, India**
 ---
 
 ### 🔍 About Me
@@ -13,11 +12,12 @@ Actively seeking full time Data Analyst / Business Analyst roles.
 ---
 
 ### 🛠️ Tech Stack
-**Languages & Querying:** SQL, PostgreSQL, Python  
-**Data Visualization & BI:** Power BI, Microsoft Excel (Pivot Tables, LOOKUPS, DAX, KPI Dashboards, Power Query)
-**Tools:** Jupyter Notebook, pgAdmin, VS Code
-**Analytics & Business Concepts:**  
-CTEs, Window Functions, Exploratory Data Analysis (EDA), Data Cleaning, Data Validation, KPI Monitoring, Business Intelligence, Dashboarding, Competitive Analysis, Workflow Automation
+
+- **Languages & Querying:** SQL, PostgreSQL, Python  
+- **Data Visualization & BI:** Power BI, Excel, DAX, Power Query  
+- **Tools:** Jupyter Notebook, pgAdmin, VS Code  
+- **Analytics Concepts:** CTEs · Window Functions (RANK, ROW_NUMBER, DENSE_RANK) · CASE WHEN Logic · Subqueries · Joins · EDA · Data Cleaning & Validation · KPI Monitoring · Competitive Analysis · AI Workflow Automation
+
 ---
 
 ### 📂 Featured Projects
@@ -27,7 +27,7 @@ CTEs, Window Functions, Exploratory Data Analysis (EDA), Data Cleaning, Data Val
 | [Hospital Readmission Risk Analysis](https://github.com/RUSHI-PATEL-03/hospital_readmission_sql) | PostgreSQL | SQL analysis of 25,000+ patient records to identify readmission drivers |
 | [Global Unicorn Startups Analysis](https://github.com/RUSHI-PATEL-03/Global-Unicorn-Startups-SQL-Data-Analysis-Project) | PostgreSQL | Funding patterns, investor influence, and ecosystem comparisons |
 | [Retail Sales Analysis](https://github.com/RUSHI-PATEL-03/SQL_Retail_Sales) | PostgreSQL | End-to-end EDA and business querying on retail dataset |
-| [Interactive-Bike-Sales-Analysis-Dashboard-Excel](https://github.com/RUSHI-PATEL-03/Interactive-Bike-Sales-Analysis-Dashboard-Excel-) | Ms Excel | Data Cleaning | Pivot Table| Visualization Building | Interactive Dashboard Design | 
+| [Interactive-Bike-Sales-Analysis-Dashboard-Excel](https://github.com/RUSHI-PATEL-03/Interactive-Bike-Sales-Analysis-Dashboard-Excel-) | Ms Excel | Interactive Excel dashboard tracking bike sales KPIs — monthly trends, regional performance, and customer segmentation via Pivot Charts and slicers
 
 
 ---
